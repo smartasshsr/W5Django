@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'GangwonEdu_OTFBoldA';
+  font-family: 'YdestreetB';
   src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEdu_OTFBoldA.woff') format('woff');
   font-weight: normal;
   font-style: normal;
@@ -12,10 +12,17 @@ html {
 body {
   margin: 0 0 5vh 0;
   background-color: whitesmoke;
-  font-family: 'GangwonEdu_OTFBoldA';
+  font-family: 'YdestreetB';
 }
 
 .container {
   margin: 0 15vw;
   padding: 10px 20px;
+}
+
+@font-face {
+  font-family: 'YdestreetB';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2110@1.0/YdestreetB.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
 }
